@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+  WidgetDemo
+
+  Created by 姚君 on 16/11/1.
+  Copyright © 2016年 certus. All rights reserved.
+*/
+"first_item" = "first";
+"second item" = "second";
+"third item" = "third";
+"forth item" = "forth";
